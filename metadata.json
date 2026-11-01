@@ -1,0 +1,6 @@
+{
+  "name": "PrinceMart — Hardware & Motor Spares",
+  "description": "High-performance tools, building equipment, and genuine motor spares in Zimbabwe for contractors, mechanics, and vehicle owners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
